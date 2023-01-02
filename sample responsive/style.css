@@ -1,0 +1,72 @@
+.qwe{
+    font-family: Georgia;
+  }
+  
+  .card-img{
+    overflow: hidden;
+  }
+  
+  .card-img {
+    transition: all 1.3s ease;
+    -webkit-transition: all 1.3s ease;
+    -moz-transition: all 1.3s ease;
+    -ms-transition: all 1.3s ease;
+    -o-transition: all 1.3s ease;
+  }
+  .card-img:hover img{
+    transform: scale(1.2);
+    -webkit-transform:(1.2);
+    -moz-transform:(1.2);
+    -ms-transform:(1.2);
+    -o-transform:(1.2);
+}
+  
+   /* .card-img img {
+    transition: 1s ease;
+    -webkit-transition:;
+    -moz-transition:;
+    -ms-transition:;
+    -o-transition:;
+}
+    
+    .card-img:hover img{
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+    transition: 1s ease;
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition:;
+    -moz-transition:;
+    -ms-transition:;
+    -o-transition:;
+} */
+
+
+.middle{
+    text-align: center;
+    margin-top: 2%;
+}
+
+/* .card-img{
+    height: 100px;
+    overflow: hidden;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
+}
+
+.card-img img{
+    object-fit: cover;
+    transition: transform 0.8s;
+    height: 100%;
+    -webkit-transition: transform 0.8s;
+    -moz-transition: transform 0.8s;
+    -ms-transition: transform 0.8s;
+    -o-transition: transform 0.8s;
+}
+
+.card-img:hover img{ transform: scale(1.5); -webkit-transform: scale(1.5); -moz-transform: scale(1.5); -ms-transform: scale(1.5); -o-transform: scale(1.5);
+} */
